@@ -7,3 +7,5 @@ The dotnet.social community is a server hosting a mastodon instance, here to pro
 The [community](https://github.com/dotnet-social/community) repository is the main repository used to share everything possible about this community. It's the most important place if you want details about this place.
 
 The [mastodon](https://github.com/dotnet-social/mastodon) repository is a fork of the official mastodon repository to track which version is currently installed on the server.
+
+Note: this community is not directly affiliated with Microsoft or the .NET team, it is a non-profit non-official project maintained by individual people.
